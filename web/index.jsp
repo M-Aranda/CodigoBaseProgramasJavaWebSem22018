@@ -1,8 +1,4 @@
-<%-- 
-    Document   : Index
-    Created on : Oct 2, 2018, 8:12:58 PM
-    Author     : Marce
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
