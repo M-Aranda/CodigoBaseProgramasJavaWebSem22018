@@ -1,5 +1,5 @@
 
-package model;
+package Model.DAO;
 
 import java.sql.SQLException;
 import java.util.List;
